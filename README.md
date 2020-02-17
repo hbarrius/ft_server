@@ -1,10 +1,10 @@
 # ft_server
 
-## Final grade : 100/100
-
 ## Description
 
-ft_server is a project that asks you to run a server on Debian Buster through Docker with a Wordpress, Phpmyadmin and Mysql runnning.
+soy hector y soy un subnormal
+
+PD: con cariño david
 
 ## Usage
 
