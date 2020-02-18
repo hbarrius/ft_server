@@ -1,11 +1,5 @@
 # ft_server
 
-## Description
-
-soy hector y soy un subnormal
-
-PD: con cariño david
-
 ## Usage
 
 ```shell
